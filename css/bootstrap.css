@@ -181,7 +181,6 @@ td,
 th {
   padding: 0;
 }
-/*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */
 @media print {
   *,
   *:before,
@@ -257,6 +256,12 @@ th {
     border: 1px solid #ddd !important;
   }
 }
+@font-face {
+font-family: "genshin";  
+src: url("/font/genshin.ttf") format("truetype"); 
+font-style: normal; 
+font-weight: normal;
+ }
 * {
   -webkit-box-sizing: border-box;
      -moz-box-sizing: border-box;
@@ -372,7 +377,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: inherit;
+  font-family: genshin;
   font-weight: 500;
   line-height: 1.1;
   color: inherit;
