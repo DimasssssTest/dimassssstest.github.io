@@ -117,13 +117,13 @@ body {
  }
 
  .home-container .left-content {
-    padding-top: 25%;
-    padding-left: 35px;
+    padding-top: 15%;
+    padding-left: 30px;
  }
 
  .home-container .left-content .left-line {
     width: 3px;
-    height: 101px;
+    height: 80px;
     background-color: #121212;
     float: left;
     margin-right: 15px;
@@ -204,7 +204,7 @@ body {
   letter-spacing: 0.1px;
   color: #121212;
   text-transform: uppercase;
-  margin: 40px;
+  margin: 25px;
   margin-bottom: 0px;
   font-weight: 900;
 }
@@ -215,7 +215,7 @@ body {
 }
 
 .about-container .under-line {
-  width: 60px;
+  width: 100px;
   height: 3px;
   background-color: #121212;
   margin: 15px auto 20px auto;
