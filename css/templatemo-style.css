@@ -305,15 +305,14 @@ body {
 */
 
 footer {
-position: fixed;
-  left: 45%;
-  bottom: 0;
+  background-color: #f4f4f4;
+  text-align: center;
 }
 
 footer p {
-  font-size: 14px;
+  font-size: 13px;
   color: #7a7a7a;
-  padding: 0px 0px 0px 0px;
+  padding: 20px 0px 15px 0px;
   margin: 0px;
 }
 
